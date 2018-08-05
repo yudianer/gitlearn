@@ -1,4 +1,0 @@
-new line
-hello world
-4
-1
